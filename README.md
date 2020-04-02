@@ -1,8 +1,8 @@
 # The Oblique Network
 _Making Pixelmon Great Again since a year ago, give or take_
 
-## Terra: Quests &amp; Adventure and Survival Pixelmon server. 
-Terra is one of the first of its kind: a Pixelmon adventure/survival hybrid. Featuring countless plugins like Quests, MMO-Pixelmon Skills, Trivia and Player-Gyms, it has always aimed higher. Through this wiki, we hope you will come to learn about more than the shiny plugins - you will learn about the continent's lore, the towns' history and the endless storylines that populate Oblique's Terra.
+## Quests &amp; Adventure and Survival Pixelmon server. 
+Oblique is one of the first of its kind: a Pixelmon adventure/survival hybrid. Featuring countless plugins like Quests, MMO-Pixelmon Skills, Trivia, Towns and Player-Gyms, it has always aimed higher. Through this wiki, we hope you will come to learn about more than the shiny plugins - you will learn about the continent's lore, the towns' history and the endless storylines that populate Oblique's Terra.
 
 ## FAQ
 * Is there an enjin where I can find IPs, pictures, and latest news?
