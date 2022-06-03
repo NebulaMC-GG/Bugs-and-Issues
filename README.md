@@ -22,8 +22,11 @@ When reporting a bug, glitch, timing out or disconnect, please make sure to subm
 _WINDOWS_
 
 > For the Minecraft Launcher : C:\Users\USER\AppData\Roaming\.minecraft\logs
+
 > For the Technic Launcher: C:\Users\USER\AppData\Roaming\.technic\modpacks\pixelmon-reforged\logs
+
 > For the ATLauncher: C:\Users\USER\AppData\Roaming\ATLauncher\Instances\PixelmonCraft\logs
+
 > For the Twitch Launcher: C:\Users\USER\Documents\Curse\Minecraft\Instances\PACK\logs
 
 _macOS_
